@@ -1,0 +1,35 @@
+.general {
+  background-color: #ff7a59;
+  width: 300px;
+  height: 225px;
+  padding-top: var(--pico-spacing);
+}
+
+.general table th {
+  text-align: center;
+}
+
+.general table h5 {
+  margin: 2px 0;
+}
+
+.general table button {
+  width: 100%;
+  outline: none;
+  font-weight: bold;
+  font-size: 10px;
+}
+
+.button-hs-color {
+  background-color: #ff7a59;
+  border-color: #ff7a59;
+}
+
+.button-hs-color:active {
+  background-color: #fc6d49;
+  border-color: #fc6d49;
+}
+
+.general table tfoot small {
+  font-size: 9px;
+}

@@ -1,0 +1,26 @@
+{
+  "name": "HubSpot Developer Extensions",
+  "description": "Beta Version HubSpot Developer Extensions",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "hs-developer-16.png"
+  },
+  "icons": {
+    "16": "images/hs-developer-16.png",
+    "32": "images/hs-developer-32.png",
+    "48": "images/hs-developer-48.png",
+    "128": "images/hs-developer.png"
+  },
+  "permissions": ["activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "js": ["popup.js"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  }
+}
