@@ -2,6 +2,8 @@
 
 This is an unofficial Chrome Extension designed to assist developers working with the HubSpot platform. With this extension, you can quickly access useful tools for development and debugging within the HubSpot ecosystem.
 
+![alt text](screenshot.png)
+
 ## Features
 
 - Easy session cookie viewing

@@ -8,10 +8,10 @@
     "default_icon": "hs-developer-16.png"
   },
   "icons": {
-    "16": "images/hs-developer-16.png",
-    "32": "images/hs-developer-32.png",
-    "48": "images/hs-developer-48.png",
-    "128": "images/hs-developer.png"
+    "16": "hs-developer-16.png",
+    "32": "hs-developer-32.png",
+    "48": "hs-developer-48.png",
+    "128": "hs-developer.png"
   },
   "permissions": ["activeTab", "scripting"],
   "content_scripts": [
