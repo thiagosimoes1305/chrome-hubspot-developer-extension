@@ -1,7 +1,13 @@
+/**
+ * Created by
+
+ * Thiago Simões <thiagosimoes1305@gmail.com>
+ * Carolina Batista <carolbatista2@gmail.com>
+ */
 .general {
   background-color: #ff7a59;
   width: 300px;
-  height: 250px;
+  height: 245px;
   padding-top: var(--pico-spacing);
 }
 

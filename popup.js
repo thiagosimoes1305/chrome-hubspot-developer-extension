@@ -1,3 +1,9 @@
+/**
+ * Created by
+
+ * Thiago Simões <thiagosimoes1305@gmail.com>
+ * Carolina Batista <carolbatista2@gmail.com>
+ */
 function removeCache(){
   chrome.tabs.query({ active: true, currentWindow: true }, function(tabs){
     const urlTab = new URL(tabs[0].url);
