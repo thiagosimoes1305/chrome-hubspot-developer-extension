@@ -1,5 +1,7 @@
 # HubSpot Developer Extension
 
+https://chromewebstore.google.com/detail/hubspot-developer-extensi/ocemlldjbjmmoippekbdcbcmcimoffhg
+
 This is an unofficial Chrome Extension designed to assist developers working with the HubSpot platform. With this extension, you can quickly access useful tools for development and debugging within the HubSpot ecosystem.
 
 ![alt text](screenshot.png)
@@ -25,6 +27,8 @@ This extension is not an official HubSpot tool and has no affiliation with the c
 ---
 
 # Extensão para Desenvolvedores HubSpot
+
+https://chromewebstore.google.com/detail/hubspot-developer-extensi/ocemlldjbjmmoippekbdcbcmcimoffhg
 
 Esta é uma extensão não oficial do Chrome projetada para ajudar desenvolvedores que trabalham com a plataforma HubSpot. Com essa extensão, você pode acessar ferramentas úteis para desenvolvimento e depuração dentro do ecossistema HubSpot.
 
