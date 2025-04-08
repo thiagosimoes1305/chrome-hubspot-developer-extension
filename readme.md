@@ -1,6 +1,6 @@
 # HubSpot Developer Extension
 
-https://chromewebstore.google.com/detail/hubspot-developer-extensi/ocemlldjbjmmoippekbdcbcmcimoffhg
+[Install Chrome Extension](https://chromewebstore.google.com/detail/hubspot-developer-extensi/ocemlldjbjmmoippekbdcbcmcimoffhg)
 
 This is an unofficial Chrome Extension designed to assist developers working with the HubSpot platform. With this extension, you can quickly access useful tools for development and debugging within the HubSpot ecosystem.
 
@@ -24,11 +24,13 @@ Feel free to contribute! Report bugs, submit pull requests, and suggest new feat
 
 This extension is not an official HubSpot tool and has no affiliation with the company.
 
+[![image](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?hosted_button_id=B3DRUVKSZL5CS)
+
 ---
 
 # Extensão para Desenvolvedores HubSpot
 
-https://chromewebstore.google.com/detail/hubspot-developer-extensi/ocemlldjbjmmoippekbdcbcmcimoffhg
+[Install Chrome Extension](https://chromewebstore.google.com/detail/hubspot-developer-extensi/ocemlldjbjmmoippekbdcbcmcimoffhg)
 
 Esta é uma extensão não oficial do Chrome projetada para ajudar desenvolvedores que trabalham com a plataforma HubSpot. Com essa extensão, você pode acessar ferramentas úteis para desenvolvimento e depuração dentro do ecossistema HubSpot.
 
@@ -49,3 +51,5 @@ Sinta-se à vontade para contribuir com melhorias! Relate bugs, envie pull reque
 ## Aviso
 
 Essa extensão não é uma ferramenta oficial da HubSpot e não tem qualquer relação com a empresa.
+
+[![image](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?hosted_button_id=B3DRUVKSZL5CS)
