@@ -24,7 +24,7 @@ Feel free to contribute! Report bugs, submit pull requests, and suggest new feat
 
 This extension is not an official HubSpot tool and has no affiliation with the company.
 
-[![image](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?hosted_button_id=B3DRUVKSZL5CS)
+[![image](donate.png)](https://www.paypal.com/donate?hosted_button_id=B3DRUVKSZL5CS)
 
 ---
 
@@ -52,4 +52,4 @@ Sinta-se à vontade para contribuir com melhorias! Relate bugs, envie pull reque
 
 Essa extensão não é uma ferramenta oficial da HubSpot e não tem qualquer relação com a empresa.
 
-[![image](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?hosted_button_id=B3DRUVKSZL5CS)
+[![image](donate.png)](https://www.paypal.com/donate?hosted_button_id=B3DRUVKSZL5CS)
